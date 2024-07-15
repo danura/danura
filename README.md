@@ -1,7 +1,14 @@
-## Hi there 👋
+### Hey there , I'm using Github ! 👋
+
+I'm a Software Engineer who is passionate about Web Development and Data Analytics 
+
+
+<img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
+
+### Connect with me on Instagram! ✨
+You can find a lot of my content on [my Instagram page](https://www.instagram.com/danuraaditya/) and you can get in touch with me on [Twitter](https://twitter.com/danura). You can also connect with me on [LinkedIn](http://linkedin.com/in/kedashakerr) or [send me an email](mailto:hello@itsthatlady.dev).
 
 <!--
-**danura/danura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
