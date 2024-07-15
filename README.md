@@ -3,7 +3,7 @@
 I'm a Software Engineer who is passionate about Web Development and Data Analytics 
 
 
-<img align="left" width="150" height="150" src="[https://github.com/danura/danura/desain_dt.png](https://github.com/danura/danura/blob/main/desain_dt.png)" alt="kedasha's instagram page @danuraaditya">
+
 
 ### Connect with me on Instagram! ✨
 You can find a lot of my content on [my Instagram page](https://www.instagram.com/danuraaditya/) and you can get in touch with me on [Twitter](https://twitter.com/danuraaditya). You can also connect with me on [LinkedIn]([http://linkedin.com/in/kedashakerr](https://www.linkedin.com/in/aditya-wardanur-23a439a2/)) or [send me an email](mailto:danuraaditya@gmail.com).
