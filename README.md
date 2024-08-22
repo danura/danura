@@ -7,8 +7,8 @@ I'm a Software Engineer who is passionate about Web Development and Data Analyti
 You can find a lot of my content on [my Instagram page](https://www.instagram.com/danuraaditya/) and you can get in touch with me on [Twitter](https://twitter.com/danuraaditya). You can also connect with me on [LinkedIn]([http://linkedin.com/in/kedashakerr](https://www.linkedin.com/in/aditya-wardanur-23a439a2/)) or [send me an email](mailto:danuraaditya@gmail.com).
 
 - 🔭 I’m currently working on My own labs (Fire Monkey Studio)
-- 🌱 I’m currently learning About Python
-- 
+- 🌱 I’m currently learning About How to be a Rich
+- ⚡ How to reach me: send Your idea to my Email ... cheersss 
 <!--
 
 Here are some ideas to get you started:
